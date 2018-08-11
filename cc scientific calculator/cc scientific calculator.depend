@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1527912304 source:c:\users\sejal\desktop\c++programs\cc scientific calculator\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
